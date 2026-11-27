@@ -14,8 +14,8 @@
 
 ## Personnages
 <p align="center">
-<img width="2160" height="3092" alt="IMG_8723" src="https://github.com/user-attachments/assets/d1fb7df0-5afd-4258-9036-01c2c378a9f8" width="24%"/>
-<img width="2160" height="3092" alt="IMG_8727" src="https://github.com/user-attachments/assets/6a24ef67-4816-42d9-97b1-f04f1ef32c92" width="24%"/>
-<img width="2048" height="2048" alt="IMG_8728" src="https://github.com/user-attachments/assets/a5b07412-61cd-4175-837a-a924a2738158" width="24%"/>
-<img width="2160" height="3840" alt="IMG_8589" src="https://github.com/user-attachments/assets/97ae1dc3-0a9f-4307-aff8-b23745c36512" width="24%"/>
+<img width="2160" height="3092" alt="IMG_8723" src="https://github.com/user-attachments/assets/d1fb7df0-5afd-4258-9036-01c2c378a9f8" width="24%" />
+<img width="2160" height="3092" alt="IMG_8727" src="https://github.com/user-attachments/assets/6a24ef67-4816-42d9-97b1-f04f1ef32c92" width="24%" />
+<img width="2048" height="2048" alt="IMG_8728" src="https://github.com/user-attachments/assets/a5b07412-61cd-4175-837a-a924a2738158" width="24%" />
+<img width="2160" height="3840" alt="IMG_8589" src="https://github.com/user-attachments/assets/97ae1dc3-0a9f-4307-aff8-b23745c36512" width="24%" />
 </p>
