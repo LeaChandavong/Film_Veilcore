@@ -1,7 +1,7 @@
 # Film_Veilcore
 
 ## Phrase choc
-- Un garçon de 14ans nommé Tristan se retrouve dans un autre monde remplie de monstres et entités.
+- Un garçon de 14 ans nommé Tristan se retrouve dans un autre monde remplie de monstres et entités.
 
 ## Type de projet
 - Une série horreur animation 2D
