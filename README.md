@@ -14,8 +14,8 @@
 
 ##Personnages
 <p align="center">
-  <img src="path/to/image1.png](https://github.com/user-attachments/assets/8dc4e796-3278-499f-82a2-f0c4ea903f0d" width="24%" />
-  <img src="path/to/image2.png](https://github.com/user-attachments/assets/6d44d6df-b566-4e00-90e4-6030040b4697" width="24%" />
-  <img src="path/to/image2.png](https://github.com/user-attachments/assets/0a55e82e-782e-4368-ae57-32c24e4a6bf1" width="24%" />
-  <img src="path/to/image2.png](https://github.com/user-attachments/assets/8fcc3050-000d-4f23-bcce-614d4c861336" width="24%" />
+<img width="2160" height="3092" alt="IMG_8723" src="https://github.com/user-attachments/assets/d1fb7df0-5afd-4258-9036-01c2c378a9f8" />
+<img width="2160" height="3092" alt="IMG_8727" src="https://github.com/user-attachments/assets/6a24ef67-4816-42d9-97b1-f04f1ef32c92" />
+<img width="2048" height="2048" alt="IMG_8728" src="https://github.com/user-attachments/assets/a5b07412-61cd-4175-837a-a924a2738158" />
+<img width="2160" height="3840" alt="IMG_8589" src="https://github.com/user-attachments/assets/97ae1dc3-0a9f-4307-aff8-b23745c36512" />
 </p>
